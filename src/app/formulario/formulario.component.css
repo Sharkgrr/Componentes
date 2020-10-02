@@ -1,0 +1,60 @@
+.principal{
+    width: min-content;
+    margin: auto;
+    text-align: center;
+}
+
+.conteudo {
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 8px;
+    border: 1px solid rgb(128, 199, 240);
+    display: inline-block;
+    background-color: black;
+}
+.titulo{
+    font-size: xx-large;
+    text-align: center;
+    text-indent: 20px;
+    margin-top: 2px; 
+    font-family: 'Trebuchet MS';
+    padding: 8px;
+    margin-bottom: 12px;  
+    
+}
+
+.container{ 
+    width: 1250px;
+    height: 550px;
+    background: white;
+    margin: 19px 10px 19px 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+
+}
+
+.rodape{
+    border-top: 2px solid #CCC;
+    border-bottom: 2px solid #CCC;
+    padding: 8px;
+    width: 20%; 
+    text-align: left;
+    margin-top: 20px;
+}
+
+.cabeça{
+    margin: 20px;
+    text-align: right;
+}
+
+.LinhaHeader{
+    border-bottom: 5px solid #CCC;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 100px 100px 100px 100px;    
+    background-color: rgb(128, 199, 240);
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
